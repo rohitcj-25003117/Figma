@@ -158,7 +158,9 @@ last page
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-11-09 183451.png>)
+
+<img width="1025" height="399" alt="event" src="https://github.com/user-attachments/assets/bef99980-9f6e-4002-8986-ba5d4437d9a8" />
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
